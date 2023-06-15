@@ -1,2 +1,2 @@
-# Projeto web services com Spring Boot e JPA / Hibernate 
+# T1 LABORATORIO DE ORIENTAÇÃO A OBJETOS
 
